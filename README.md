@@ -59,3 +59,25 @@ src/
 ## 라이센스
 
 MIT
+
+
+
+
+
+## 실행 방법
+
+- `ebookv1_ppteditdownload` 경로에서
+```bash
+npm install
+```
+
+- `ebookv1_ppteditdownload/server` 경로에서
+```bash
+npm install
+node .\pptParser.js
+```
+
+- `ebookv1_ppteditdownload` 경로에서
+```bash
+npm run dev
+```
