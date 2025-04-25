@@ -1,0 +1,81 @@
+{
+  "_id": "1745540856714",
+  "fileName": "AWS 소개.pptx",
+  "uploadDate": "2025-04-25T00:27:36.740Z",
+  "slides": [
+    {
+      "title": "슬라이드 1",
+      "content": "클라우드 데브옵스프론트엔드&백엔드 자바(JAVA) 풀스택 개발자 취업캠프2024.12.30 ~ 2025.5.30",
+      "images": [
+        "/images/1745540856714_slide_1_image7.png"
+      ],
+      "number": 1
+    },
+    {
+      "title": "슬라이드 2",
+      "content": "AWS(Amazon Web Service)아마존 닷컴에서 개발한 클라우드 컴퓨팅 플랫폼이다.네트워킹을 기반으로 가상 컴퓨터, 스토리지, 네트워크 인프라 등 다양한 서비스를 제공하고 있다.",
+      "images": [
+        "/images/1745540856714_slide_2_image1.png"
+      ],
+      "number": 2
+    },
+    {
+      "title": "슬라이드 3",
+      "content": "클라우드 컴퓨팅(Cloud Computing)사용자의 직접적인 활발한 관리 없이 특히, 데이터 스토리지(클라우드 스토리지)와 컴퓨팅 파워와 같은 컴퓨터 시스템 리소스를 필요 시 바로 제공(on-demand availability)하는 것-> 자신의 컴퓨터가 아닌 클라우드에 연결된 다른 컴퓨터로 처리하는 기술",
+      "images": [
+        "/images/1745540856714_slide_3_image6.png"
+      ],
+      "number": 3
+    },
+    {
+      "title": "슬라이드 4",
+      "content": "클라우드 컴퓨팅(Cloud Computing)",
+      "images": [
+        "/images/1745540856714_slide_4_image5.png"
+      ],
+      "number": 4
+    },
+    {
+      "title": "슬라이드 5",
+      "content": "클라우드 컴퓨팅(Cloud Computing)IaaS(Infrastructure-as-a-Service,아이아스)PaaS(Platform-as-a-Service)SaaS(Software-as-a-Service)",
+      "images": [
+        "/images/1745540856714_slide_5_image4.png"
+      ],
+      "number": 5
+    },
+    {
+      "title": "슬라이드 6",
+      "content": "AWS의 클라우드 컴퓨팅 서비스",
+      "images": [
+        "/images/1745540856714_slide_6_image3.png"
+      ],
+      "number": 6
+    },
+    {
+      "title": "슬라이드 7",
+      "content": "AWS 주요 서비스",
+      "images": [
+        "/images/1745540856714_slide_7_image2.png"
+      ],
+      "number": 7
+    },
+    {
+      "title": "슬라이드 8",
+      "content": "VPC(Virtual Private Cloud)사용자가 정의하는 가상의 네트워크VPC를 통해 인스턴스가 속하는 네트워크를 구분하여 각 네트워크에 맞는 설정 부여 가능",
+      "images": [],
+      "number": 8
+    },
+    {
+      "title": "슬라이드 9",
+      "content": "AWS EC2 ( Elastic Compute Cloud) EC2서비스는 AWS에서 비용, 성능, 용량면에서 탄력적인 클라우드 컴퓨터를 제공하는 서비스라고 할 수 있다.",
+      "images": [],
+      "number": 9
+    },
+    {
+      "title": "슬라이드 10",
+      "content": "EC2의 인스턴스 타입T2.Micro, m4.Large, h2.Largenano < micro < small < medium < large < xlarge < 2xlarge nano",
+      "images": [],
+      "number": 10
+    }
+  ]
+}
